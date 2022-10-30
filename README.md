@@ -1,4 +1,4 @@
- - Hi, I’m @amondo18
+ - Hi, I’m Gabo @amondo18.
  - I’m a web3 enthusiast.
  - I’m currently learning smartcontract security standards. Also a candidate in the Polkadot ambassador program.
  - I would really like to collaborate with a web3 company to learn more and develop myself to a professional level.
